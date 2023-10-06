@@ -29,13 +29,13 @@ Follow these steps to get the project up and running:
 1.  Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/your-laravel-project.git
+    git clone https://github.com/kishan9607/CRMTask.git
     ```
 
 2.  Change into the project directory:
 
     ```bash
-    cd your-laravel-project
+    cd CRMTask
     ```
 
 3.  Install PHP dependencies using Composer:
