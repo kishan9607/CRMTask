@@ -67,7 +67,7 @@ Follow these steps to get the project up and running:
     DB_PASSWORD=your_database_password
     ```
 
-7.  (Optional) Install front-end assets (e.g., JavaScript and CSS):
+7.  Install front-end assets (e.g., JavaScript and CSS):
 
     ```bash
     npm install
