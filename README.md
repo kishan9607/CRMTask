@@ -75,7 +75,13 @@ Follow these steps to get the project up and running:
     npm run build
     ```
 
-8.  Start the development server:
+8.  Generate database schema:
+
+    ```bash
+    php artisan migrate
+    ```
+
+9.  Start the development server:
 
     ```bash
     php artisan serve
