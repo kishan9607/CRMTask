@@ -58,12 +58,14 @@ Follow these steps to get the project up and running:
 
 6.  Configure your database in the .env file:
 
+    ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=your_database_name
     DB_USERNAME=your_database_username
     DB_PASSWORD=your_database_password
+    ```
 
 7.  (Optional) Install front-end assets (e.g., JavaScript and CSS):
 
